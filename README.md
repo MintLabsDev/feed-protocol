@@ -2,7 +2,7 @@
 
 # Feed Protocol RNG
 
-Feed Protocol Random Number Generator (FPRNG) is a program on the Solana Blockchain to derive on-chain randomness. You interact with FPRNG (making a CPI) in your program to get randomness and use it in the same transaction. FPRNG charges around 1 cent in SOL. FPRNG takes advantage of the speed and security of the Solana Blockchain to offer cheap, fast, unpredictable, and fair random numbers.
+Feed Protocol Random Number Generator (FPRNG) is a program on the Solana Blockchain to derive on-chain randomness. You interact with FPRNG (making a CPI) in your program to get randomness and use it in the same transaction. FPRNG's pricing advantage allows you to significantly scale randomization in your programs. FPRNG takes advantage of the speed and security of the Solana Blockchain to offer cheap, fast, unpredictable, and fair random numbers.
 
 When a user gets a random number from FPRNG, they manipulate the process to derive randomness for the next user and also for themselves. Additionally, feed data from Pyth Network accounts, timestamp, slot number, and a temporarily created account are used in a complex process to derive randomness.
 
