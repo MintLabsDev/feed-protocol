@@ -1,4 +1,6 @@
-![alt text](./banner.jpeg)
+<picture>
+  <img alt="feed protocol banner" src="./banner.jpeg" width='925'>
+</picture>
 
 # Feed Protocol RNG
 
@@ -12,6 +14,17 @@ FPRNG also uses native SOL coin for charging. You don't need to subscribe or use
 
 FPRNG is very easy to implement. You can take a look at example programs in the links provided.
 
+## How to Use
+
+1. Use program id to set FPRNG. Devnet, Testnet and Mainnet Beta addresses are the same as below
+```
+9uSwASSU59XvUS8d1UeU8EwrEzMGFdXZvQ4JSEAfcS7k
+```
+
+2. Set offsets and accounts
+3. Call InvokeRNG method
+4. Now you can use your random number
+
 ## Examples
 
  - [Coin Flip Solana Example](https://github.com/MintLabsDev/coin-flip-solana-example)
@@ -23,3 +36,9 @@ FPRNG is very easy to implement. You can take a look at example programs in the 
  - [Audit Reports](./feed-protocol-public.pdf)
  - [Mint Labs Github](https://github.com/orgs/MintLabsDev)
  - [Protocol Deck](https://www.canva.com/design/DAGJgAPXgwM/-QXEVdOMUciOe-tsAw9W9w/edit)
+
+---
+
+[![Twitter](./mail.png)](mailto:hello@mintlabs.dev) [![Mail](./twitter.png)](https://x.com/feed_protocol) 
+
+Powered by [Mint Labs](https://mintlabs.dev/)
