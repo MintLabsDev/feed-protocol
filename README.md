@@ -16,7 +16,7 @@ FPRNG is very easy to implement. You can take a look at example programs in the 
 
 ## How to Use
 
-1. Use program id to set FPRNG. Devnet, Testnet and Mainnet Beta addresses are the same as below
+1. Use program id to set FPRNG. Devnet, Testnet, Mainnet Beta and [Mainnet](https://solscan.io/account/9uSwASSU59XvUS8d1UeU8EwrEzMGFdXZvQ4JSEAfcS7k) addresses are the same as below
 ```
 9uSwASSU59XvUS8d1UeU8EwrEzMGFdXZvQ4JSEAfcS7k
 ```
