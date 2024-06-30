@@ -1,5 +1,5 @@
 <picture>
-  <img alt="feed protocol banner" src="./banner.jpeg" width='925'>
+  <img alt="feed protocol banner" src="./banner.jpeg" width='200'>
 </picture>
 
 # Feed Protocol RNG
@@ -39,6 +39,4 @@ FPRNG is very easy to implement. You can take a look at example programs in the 
 
 ---
 
-[![Twitter](./mail.png)](mailto:hello@mintlabs.dev) [![Mail](./twitter.png)](https://x.com/feed_protocol) 
-
-Powered by [Mint Labs](https://mintlabs.dev/)
+[![Twitter](./mail.png)](mailto:hello@mintlabs.dev) [![Mail](./twitter.png)](https://x.com/feed_protocol)
